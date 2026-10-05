@@ -1,0 +1,43 @@
+FORMPILOT — END-USER LICENCE AGREEMENT
+Khan's AI, Peshawar, Pakistan · Version 1
+
+By installing or using FormPilot ("the Software") you agree to these terms. If you do not agree, do not use it.
+
+1. Licence. Khan's AI grants you a personal, non-exclusive, non-transferable right to use the Software on
+   your own computers to fill in web forms with data you are entitled to submit. You pay for rows through
+   your FormPilot account at the prices shown in the Software.
+
+2. Ownership. The Software, its code, design, logos (including the FormPilot "FP" mark and the Khan's AI
+   "K" mark) and its online services are owned by Khan's AI and protected by copyright law. You receive a
+   licence to use them, not ownership.
+
+3. What you may not do. You may not: copy, resell, rent, share or give away the Software except as allowed
+   here; decompile, disassemble, reverse-engineer or try to extract its source code; remove or bypass its
+   account, payment or row-counting features; build a competing product from it; or remove its brand or
+   copyright notices.
+
+4. Acceptable use. You are responsible for the data you submit and for having the right to submit it.
+   You may not use the Software to send fake, spam or fraudulent submissions, to break the terms of the
+   websites you fill in, or for anything illegal. Khan's AI may suspend accounts that do.
+
+5. Your data. Your spreadsheets stay on your computer and are sent only to the forms you choose. The
+   FormPilot account service stores your email address, your row balance, your payment orders (amount,
+   method, transaction ID, sender number) and how many rows each run used. To read a Google Form's list
+   of questions, the form's public question structure is sent to the FormPilot service; your spreadsheet
+   data is not. Khan's AI does not sell your information.
+
+6. Payments and refunds. Rows are prepaid. Only rows submitted successfully are taken from your balance;
+   unused rows stay in your account. If a payment problem occurs, contact Khan's AI with your order code.
+
+7. No warranty. Websites change, and some forms cannot be filled automatically. The Software is provided
+   "as is", without warranties of any kind. Always test a row before submitting large batches.
+
+8. Limitation of liability. To the extent the law allows, Khan's AI is not liable for indirect or
+   consequential losses, or for more than the amount you paid for rows in the last three months.
+
+9. Termination. This licence ends automatically if you break these terms. You must then stop using the
+   Software and delete all copies.
+
+10. Law. These terms are governed by the laws of Pakistan.
+
+Contact: Khan's AI · khansai.contact@gmail.com
