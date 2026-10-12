@@ -1,9 +1,0 @@
-FormPilot by Khan's AI
-
-1. Unzip this folder anywhere (for example Documents).
-2. Double-click FormPilot.exe. (Tip: right-click it > Send to > Desktop to make a shortcut.)
-3. If Windows shows 'Windows protected your PC', click 'More info' then 'Run anyway'.
-4. Sign in with your email to get 5 free rows.
-
-FormPilot uses Google Chrome or Microsoft Edge (already on Windows) to fill forms.
-Support: WhatsApp / khansai.contact@gmail.com
